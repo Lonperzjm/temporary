@@ -1,6 +1,6 @@
 <h4><center>采访实录</center></h4>
 
-<center>由chatbot进行整理补完，最后总结出观点</center>
+<center>采访后，由chatbot进行整理补完，最后总结出观点</center>
 
 <br>
 
